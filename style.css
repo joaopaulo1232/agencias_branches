@@ -1,0 +1,161 @@
+﻿body {
+	background-color: #000;
+	background:url(imagensnovo/image.png);
+}
+.vitrinefont {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 21px;
+	color: #000;
+	text-align: center;
+}
+.avisoextra {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 21px;
+	color: #e1e401;
+	text-align: center;
+}
+.anuncie {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 21px;
+	color: #F00;
+}
+.anunciepreço {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 21px;
+	color: #F00;
+}
+.anuncieavisopreço {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 21px;
+	text-align: center;
+	color: #F00;
+}
+.tagfont {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 21px;
+	color: #F00;
+	text-align: center;
+}.indexwarning {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #F00;
+	font-size: 21px;
+	text-align: center;
+}
+.newstext {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #F00;
+	font-size: 21px;
+	text-align: center;
+}
+.textopagina {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	color: #F00;
+	font-size: 16px;
+}
+.hometext {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #F00;
+	font-size: 21px;
+	text-align: center;
+}
+.tagindex {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+	color: #F00;
+	text-align: center;
+}
+.menulat a:link{
+font-family:Verdana, Geneva, sans-serif;
+font-weight: bold;
+font-size:21px;
+color:#000000;
+text-align:center;
+text-decoration:none;
+background:#ff0000;
+padding:21px;
+border-bottom:#000000 1px solid;
+display:block;
+
+}
+
+.menulat a:visited{
+font-family:Verdana, Geneva, sans-serif;
+font-weight: bold;
+font-size:21px;
+color:#000000;
+text-align:center;
+text-decoration:none;
+background:#ff0000;
+padding:21px;
+border-bottom:#000000 1px solid;
+display:block;
+
+}
+
+.menulat a:active{
+font-family:Verdana, Geneva, sans-serif;
+font-weight: bold;
+font-size:21px;
+color:#000000;
+text-align:center;
+text-decoration:none;
+background:#ff0000;
+padding:21px;
+border-bottom:#000000 1px solid;
+display:block;
+
+}
+
+.menulat a:hover{
+background:#666;
+color:#fffff;
+border-left:#000000;
+
+
+}.typemodelname {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #F00;
+	text-align: center;
+}
+.modeltabela1 {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #F00;
+	font-size: 21px;
+	font-weight: bold;
+}
+.modeltabela2 {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FFF;
+	font-size: 21px;
+	font-weight: bold;
+}
+.link {
+    color: #F00;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	text-align: center;
+	text-decoration: none;
+
+}
+a:visited {
+	text-decoration: none;
+	color: #FFF;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+	color: #FFF;
+}
